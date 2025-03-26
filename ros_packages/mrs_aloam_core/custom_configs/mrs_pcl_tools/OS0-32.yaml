@@ -2,5 +2,5 @@ lidar3d:
 
   downsampling:
     dynamic_row_selection: false
-    row_step: 2
-    col_step: 2
+    row_step: 1
+    col_step: 4
